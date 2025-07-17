@@ -55,8 +55,9 @@ It may take 1min+ to lunch Dash application.
 
 ## Intended Use
 
-This application was developed as part of an academic coursework in data science applied to public health. It aims to serve as a pedagogical tool and proof of concept for multidimensional health data exploration.
-Author
+This application was developed as part of an academic coursework in data science and data visualization. It aims to serve as a pedagogical tool and proof of concept for multidimensional health data exploration.
+
+## Author
 
 Developed by Jordan Dutel, Ariane Paradan and Pengjun Li, as part of "UE Analyse de données" at Claude Bernard Lyon 1 University.
 
