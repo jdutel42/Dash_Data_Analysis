@@ -31,6 +31,8 @@ Ensure the following dependencies are installed:
 pip install pandas numpy scikit-learn plotly dash dash_daq dash-cytoscape networkx python-louvain
 ```
 
+or create a python environment with dependencies specified in `requirement.txt`
+
 ---
 
 ## Running the Application
