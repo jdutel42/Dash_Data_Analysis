@@ -49,6 +49,7 @@ python Dash_app.py
 ```
 
 The dashboard will be accessible at [http://localhost:8099](http://localhost:8099).
+It may take 1min+ to lunch Dash application.
 
 ---
 
